@@ -29,4 +29,19 @@
 - LinkedIn: [uday kiran kothagattu](https://www.linkedin.com/in/uday-kiran-kothagattu)
 - GitHub: [udaykiran887](https://github.com/udaykiran887)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=udaykiran887&show_icons=true&theme=radical)
+<br>
+
+### 📊Github Stats:
+<p align="center">
+  <a href="https://github.com/udaykiran887"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=udaykiran887&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=udaykiran887&theme=tokyonight" />
+    </span></a>
+</p>
+
+
+
+<br>
+
+
+
