@@ -2,8 +2,7 @@
 
 ### I'm a passionate developer working on exciting projects like:
 
-- 💻 [Portfolio](https://udaykirankothagattu-portfolio.netlify.app/)
-- [Portfolio(source)](https://github.com/Udaykiran887/personal-portfolio) 
+- 💻 [Portfolio](https://udaykirankothagattu-portfolio.netlify.app/), [Portfolio (source in github)](https://github.com/Udaykiran887/personal-portfolio) 
 - 🔧 [Random Quote Generator](https://github.com/udaykiran887/random-quote-generator)
 - 💱 [Currency Converter](https://github.com/udaykiran887/currency-converter)
 - ⛅ [Daily weather](https://github.com/udaykiran887/daily-weather)
